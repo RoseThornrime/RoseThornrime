@@ -4,12 +4,21 @@ I'm a fresh employee of the Onedata.org project, and I'm working now on automate
 
 Besides that, I mainly develop game-related stuff and sometimes apps for Raspberry Pi/microcontrollers.
 
-Here are games I did with friends:
+Here are my fav technologies:
 
-[![Broken Mind](https://img.itch.zone/aW1hZ2UvMzYyNDUwMC8yMTAwMDAwLnBuZw==/315x250%23c/placeholder.png)](https://piotr135.itch.io/broken-mind)
+<p>
+  <img src="img/python.png" width="150"/>
+  <img src="img/cpp.png" width="150"/>
+  <img src="img/godot.png" width="150"/>
+</p>
 
-[![Catsino](https://img.itch.zone/aW1hZ2UvNDExOTk4NS8yMTAwMDAwLnBuZw==/315x250%23c/placeholder.png)](https://chris-pp.itch.io/catsino)
+And here are games I did with my friends:
 
-[![Deep Omen](https://img.itch.zone/aW1hZ2UvNDQ3MDc0NS8yMTAwMDAwLnBuZw==/315x250%23c/placeholder.png)](https://piotr135.itch.io/deep-omen)
 
-[![I really want to pet my cat](https://img.itch.zone/aW1hZ2UvNDM2ODY4NC8yMTAwMDAwLnBuZw==/315x250%23c/placeholder.png)](https://thornrime.itch.io/i-really-want-to-pet-my-cat)
+<p>
+  <img src="img/brokenmind.png" width="150"/>
+  <img src="img/deepomen.png" width="150"/>
+  <img src="img/cat.png" width="150"/>
+  <img src="img/catsino.png" width="150"/>
+</p>
+

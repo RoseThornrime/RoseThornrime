@@ -17,9 +17,9 @@ And here are games I've done with my friends:
 
 
 <p>
-  <img src="img/brokenmind.png" width="150"/>
   <img src="img/deepomen.png" width="150"/>
   <img src="img/cat.png" width="150"/>
+  <img src="img/brokenmind.png" width="100"/>
   <img src="img/catsino.png" width="150"/>
 </p>
 

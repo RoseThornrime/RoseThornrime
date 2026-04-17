@@ -7,13 +7,13 @@ Besides that, I mainly develop game-related stuff and sometimes apps for Raspber
 Here are my fav tools:
 
 <p>
-  <img src="img/python.png" width="150"/>
-  <img src="img/cpp.png" width="150"/>
-  <img src="img/godot.png" width="150"/>
-  <img src="img/pi.png" width="150"/>
+  <img src="img/python.png" width="100"/>
+  <img src="img/cpp.png" width="100"/>
+  <img src="img/godot.png" width="100"/>
+  <img src="img/pi.png" width="100"/>
 </p>
 
-And here are games I did with my friends:
+And here are games I've done with my friends:
 
 
 <p>

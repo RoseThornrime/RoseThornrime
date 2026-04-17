@@ -4,12 +4,13 @@ I'm a fresh employee of the Onedata.org project, and I'm working now on automate
 
 Besides that, I mainly develop game-related stuff and sometimes apps for Raspberry Pi/microcontrollers.
 
-Here are my fav technologies:
+Here are my fav tools:
 
 <p>
   <img src="img/python.png" width="150"/>
   <img src="img/cpp.png" width="150"/>
   <img src="img/godot.png" width="150"/>
+  <img src="img/pi.png" width="150"/>
 </p>
 
 And here are games I did with my friends:

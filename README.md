@@ -2,7 +2,7 @@
 
 I'm a fresh employee of the Onedata.org project, and I'm working now on automated tests for the Onedata app.
 
-Besides that, I mainly develop game-related stuff and sometimes apps for Raspberry Pi/microcontrollers.
+Besides that, I mainly develop game-related stuff and sometimes apps for Raspberry Pi or microcontrollers.
 
 Here are my fav tools:
 

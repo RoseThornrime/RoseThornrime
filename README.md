@@ -9,8 +9,8 @@ Here are my fav tools:
 <p>
   <img src="img/pi.png" width="100"/>
   <img src="img/cpp.png" width="100"/>
-  <img src="img/python.png" width="100"/>
-  <img src="img/godot.png" width="100"/>
+  <img src="img/python.png" width="115"/>
+  <img src="img/godot.png" width="120"/>
 </p>
 
 And here are games I've done with my friends:
